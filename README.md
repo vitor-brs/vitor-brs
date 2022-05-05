@@ -4,7 +4,7 @@
 
 De São Paulo, Capital. 
 
-:medal_sports: Engenharia de Computação
+:medal_sports: Graduando em Engenharia de Computação
 
 :medal_sports: Técnico em Informática
 
