@@ -16,7 +16,7 @@ De São Paulo, Capital. Técnico de TI e graduando em engenharia de computação
 ![](https://komarev.com/ghpvc/?username=vitor-brs) ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=vitor-brs.vitor-brs)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvabrvitor&layout=compact)](https://github.com/silvabrvitor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-brs&layout=compact)](https://github.com/vitor-brs/github-readme-stats)
 
 <hr>
 
