@@ -18,13 +18,9 @@ De São Paulo, Capital.
 
 ### STACKS
 
-
-
-| Frontend                                                                                  | Backend                                                                                  | Database                                                                                                    |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| ![](C:\Users\convidado19\Downloads\vitor-brs-master\vitor-brs-master\css3.svg)            | ![](C:\Users\convidado19\Downloads\vitor-brs-master\vitor-brs-master\dot-net-core-7.svg) | ![](C:\Users\convidado19\Downloads\vitor-brs-master\vitor-brs-master\microsoft-sql-server-seeklogo.com.svg) |
-| ![](C:\Users\convidado19\Downloads\vitor-brs-master\vitor-brs-master\html5.svg)           | ![](C:\Users\convidado19\Downloads\vitor-brs-master\vitor-brs-master\c--4.svg)           | ![](C:\Users\convidado19\Downloads\vitor-brs-master\vitor-brs-master\mysql-5.svg)                           |
-| ![](C:\Users\convidado19\Downloads\vitor-brs-master\vitor-brs-master\logo-javascript.svg) | ![](C:\Users\convidado19\Downloads\vitor-brs-master\vitor-brs-master\java-4.svg)         |                                                                                                             |
-|                                                                                           | ![](C:\Users\convidado19\Downloads\vitor-brs-master\vitor-brs-master\c-2975.svg)         |                                                                                                             |
-
-
+| Frontend                 | Backend                                     | Database                                   |
+| ------------------------ | ------------------------------------------- | ------------------------------------------ |
+| ![](css3.svg)            | ![](dot-net-core-7.svg)                     | ![](microsoft-sql-server-seeklogo.com.svg) |
+| ![](html5.svg)           | ![](c--4.svg)                               | ![](mysql-5.svg)                           |
+| ![](logo-javascript.svg) | ![](java-4.svg)                             |                                            |
+|                          | ![](c-2975.svg) |                                            |
