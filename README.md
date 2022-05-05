@@ -24,7 +24,7 @@ De São Paulo, Capital.
 
 <hr>
 | Frontend | Backend | Database |
-|--- |--- |--- |
+|------ |------ |------ |
 |<img height="50" src="css3.svg"> | <img height="50" src="dot-net-core-7.svg"> | <img height="50" src="microsoft-sql-server-seeklogo.com.svg"> |
 |<img height="50" src="html5.svg"> | <img height="50" src="c--4.svg"> | <img height="50" src="mysql-5.svg"> |
 |<img height="50" src="logo-javascript.svg"> | <img height="50" src="java-4.svg"> | |
