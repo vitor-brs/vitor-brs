@@ -20,7 +20,7 @@ De São Paulo, Capital.
 
 | Frontend                 | Backend                 | Database                                   |
 | ------------------------ | ----------------------- | ------------------------------------------ |
-| ![image](css3.svg = 250x)            | ![image](dot-net-core-7.svg = 250x) | ![image](microsoft-sql-server-seeklogo.com.svg = 250x) |
+| ![image](css3.svg = 250x250)            | ![image](dot-net-core-7.svg = 250x) | ![image](microsoft-sql-server-seeklogo.com.svg = 250x) |
 | ![image](html5.svg = 250x)           | ![image](c--4.svg = 250x)           | ![image](mysql-5.svg = 250x)                           |
 | ![image](logo-javascript.svg = 250x) | ![image](java-4.svg = 250x)         |                                            |
 |                          | ![image](c-2975.svg = 250x)         |                                            |
