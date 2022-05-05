@@ -2,7 +2,7 @@
 
 ### Sobre
 
-De São Paulo, Capital. Rock N' Roll is the answer!
+De São Paulo, Capital. 
 
 :medal_sports: Engenharia de Computação
 
