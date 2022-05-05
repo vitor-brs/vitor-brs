@@ -18,9 +18,9 @@ De São Paulo, Capital.
 
 ### STACKS
 
-| Frontend                 | Backend                                     | Database                                   |
-| ------------------------ | ------------------------------------------- | ------------------------------------------ |
-| ![](css3.svg)            | ![](dot-net-core-7.svg)                     | ![](microsoft-sql-server-seeklogo.com.svg) |
-| ![](html5.svg)           | ![](c--4.svg)                               | ![](mysql-5.svg)                           |
-| ![](logo-javascript.svg) | ![](java-4.svg)                             |                                            |
-|                          | ![](c-2975.svg) |                                            |
+| Frontend                 | Backend                 | Database                                   |
+| ------------------------ | ----------------------- | ------------------------------------------ |
+| ![image](css3.svg)            | ![image](dot-net-core-7.svg) | ![image](microsoft-sql-server-seeklogo.com.svg) |
+| ![image](html5.svg)           | ![image](c--4.svg)           | ![image](mysql-5.svg)                           |
+| ![image](logo-javascript.svg) | ![image](java-4.svg)         |                                            |
+|                          | ![image](c-2975.svg)         |                                            |
