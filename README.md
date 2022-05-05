@@ -4,7 +4,7 @@
 
 ### Sobre
 
-De São Paulo, Capital. Técnico de TI e graduando em engenharia de computação.
+De São Paulo, Capital.
 
 :medal_sports: Engenharia de Computação
 
