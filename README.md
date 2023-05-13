@@ -2,11 +2,8 @@
 
 ### Sobre
 
-De São Paulo, Capital. 
+Engenharia de Computação
 
-:medal_sports: Graduando em Engenharia de Computação
-
-:medal_sports: Técnico em Informática
 
 :computer_mouse: Website em construção
 
